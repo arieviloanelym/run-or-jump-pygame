@@ -20,8 +20,7 @@ Para rodar o projeto localmente, siga os passos abaixo no seu terminal:
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone [https://github.com/arieviloanelym/run-or-jump.git](https://github.com/arieviloanelym/run-or-jump.git)
-````
+   git clone [https://github.com/arieviloanelym/run-or-jump.git](https://github.com/arieviloanelym/run-or-jump.git)````
 
 2.  **Instalar Dependências:**
 
