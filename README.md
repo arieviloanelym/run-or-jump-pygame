@@ -1,10 +1,6 @@
 
 Jogo de sobrevivência desenvolvido em Python com Pygame para projeto acadêmico. Inclui animações de sprites, música e dificuldade progressiva.
-Faz todo sentido, Mylena. No GitHub, o README fica muito melhor quando você usa um bloco de código limpo para as instruções. Fica com cara de documentação oficial.
 
-Aqui está o conteúdo completo para você **copiar e colar** no seu arquivo `README.md`. Ele já está formatado com ícones e os blocos de comando que um QA Engineer usaria:
-
-````markdown
 # 🏃‍♂️ Run or Jump
 
 Jogo de sobrevivência arcade desenvolvido em **Python** com a biblioteca **Pygame-ce**. O projeto simula um desafio de desviar de obstáculos (bolas de fogo) com dificuldade progressiva.
